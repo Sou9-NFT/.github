@@ -76,18 +76,19 @@ We also created a custom cryptocurrency token:
 
 ## Team Members
 
-| Name                 | GitHub Profile                                         |
-| -------------------- | ------------------------------------------------------ |
-| Aymen Hmani          | [@TheLime1](https://github.com/TheLime1)               |
-| Nessim Baraket       | [@nessimbns2](https://github.com/nessimbns2)           |
-| Khaled Chihab        | [@khaledchihab](https://github.com/khaledchihab)       |
-| Mohamed Aziz Hammami | [@Mutedly007](https://github.com/Mutedly007)           |
-| Abderrahmen Nasri    | [@Abderrahmen2002](https://github.com/Abderrahmen2002) |
-| Sana Laaridhi        | [@sanalar00](https://github.com/sanalar00)             |
+| Name                 | GitHub Profile                                         | LinkedIn Profile                                                          |
+| -------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Aymen Hmani          | [@TheLime1](https://github.com/TheLime1)               | [Aymen Hmani](https://www.linkedin.com/in/aymen-hmani/)                   |
+| Nessim Baraket       | [@nessimbns2](https://github.com/nessimbns2)           | [Nessim Baraket](https://www.linkedin.com/in/nessim-baraket-14360725b/)   |
+| Khaled Chihab        | [@khaledchihab](https://github.com/khaledchihab)       | [Khaled Chihab](https://www.linkedin.com/in/khaled-chihab-a7037a338/)     |
+| Mohamed Aziz Hammami | [@Mutedly007](https://github.com/Mutedly007)           | [Mohamed Aziz Hammami](https://www.linkedin.com/in/mohamed-aziz-hammami/) |
+| Abderrahmen Nasri    | [@Abderrahmen2002](https://github.com/Abderrahmen2002) | [Abderrahmen Nasri](https://www.linkedin.com/in/abderrahmen-nasri/)       |
+| Sana Laaridhi        | [@sanalar00](https://github.com/sanalar00)             | [Sana Laaridhi](https://www.linkedin.com/in/sana-laaridhi-36383b219/)     |
 
 
 
-> 🎓 **Supervisor**: [@asmayarii](https://github.com/asmayarii)
+> 🎓 **Supervisor**: [@asmayarii](https://github.com/ayarii)  
+> [Asma Ayari (LinkedIn)](https://www.linkedin.com/in/asma-ayari-19355088/)
 
 ---
 
