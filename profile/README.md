@@ -1,6 +1,6 @@
 # Sou9 NFT
 
-**Sou9 NFT** is a cross-platform NFT marketplace ecosystem developed as a final-year capstone project by six engineering students at **ESPRIT University**. It includes synchronized Web, Desktop, and Mobile applications—all connected to a shared database and blockchain infrastructure. The platform showcases a full-stack implementation of **Web3**, custom cryptocurrency, and rich integration with AI and third-party APIs to power a modern, immersive NFT experience.
+**Sou9 NFT** is a cross-platform NFT marketplace ecosystem. It includes synchronized Web, Desktop, and Mobile applications—all connected to a shared database and blockchain infrastructure. The platform showcases a full-stack implementation of **Web3**, custom cryptocurrency, and rich integration with AI and third-party APIs to power a modern, immersive NFT experience.
 
 ---
 
